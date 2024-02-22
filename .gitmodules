@@ -1,0 +1,12 @@
+[submodule "classification-variability-stars"]
+	path = classification-variability-stars
+	url = https://github.com/MDrica1/Classification-variability-Be-stars.git
+[submodule "star-dataviz"]
+	path = star-dataviz
+	url = https://github.com/MDrica1/Stellar-Visualization-Spectra-Blackbody-Surveys-and-Atmosphere.git
+[submodule "diabetic-feet-app"]
+	path = diabetic-feet-app
+	url = https://github.com/MDrica1/Diabetic-foot-diagnosis-app.git
+[submodule "data-analysis-course"]
+	path = data-analysis-course
+	url = https://github.com/MDrica1/Data_Analysis_Course.git
