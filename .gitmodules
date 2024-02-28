@@ -10,3 +10,6 @@
 [submodule "data-analysis-course"]
 	path = data-analysis-course
 	url = https://github.com/MDrica1/Data_Analysis_Course.git
+[submodule "Content-based-recommendation-system"]
+	path = Content-based-recommendation-system
+	url = https://github.com/MDrica1/Content-based-recommendation-system.git
