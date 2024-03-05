@@ -13,3 +13,6 @@
 [submodule "Content-based-recommendation-system"]
 	path = Content-based-recommendation-system
 	url = https://github.com/MDrica1/Content-based-recommendation-system.git
+[submodule "scikit-learn"]
+	path = scikit-learn
+	url = https://github.com/MDrica1/Scikit-learn.git
